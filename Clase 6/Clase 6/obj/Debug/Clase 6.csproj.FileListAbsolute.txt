@@ -1,0 +1,6 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Clase 6\bin\Debug\Clase 6.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Clase 6\bin\Debug\Clase 6.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Clase 6\bin\Debug\Clase 6.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Clase 6\obj\Debug\Clase 6.csprojResolveAssemblyReference.cache
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Clase 6\obj\Debug\Clase 6.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Clase 6\obj\Debug\Clase 6.pdb

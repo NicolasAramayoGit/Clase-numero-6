@@ -1,0 +1,5 @@
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Conversiones\bin\Debug\Conversiones.exe.config
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Conversiones\bin\Debug\Conversiones.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Conversiones\bin\Debug\Conversiones.pdb
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Conversiones\obj\Debug\Conversiones.exe
+c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\Conversiones\obj\Debug\Conversiones.pdb
