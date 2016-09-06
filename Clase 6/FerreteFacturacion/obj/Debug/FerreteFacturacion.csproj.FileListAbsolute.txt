@@ -7,3 +7,12 @@ c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\FerreteFacturacion
 c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.csproj.GenerateResource.Cache
 c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.exe
 c:\users\alumno\documents\visual studio 2012\Projects\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.pdb
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\bin\Debug\FerreteFacturacion.exe.config
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\bin\Debug\FerreteFacturacion.exe
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\bin\Debug\FerreteFacturacion.pdb
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.csprojResolveAssemblyReference.cache
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.Form1.resources
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.Properties.Resources.resources
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.csproj.GenerateResource.Cache
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.exe
+D:\ARAMAYO_NICOLAS\Git\Clase-numero-6\Clase 6\FerreteFacturacion\obj\Debug\FerreteFacturacion.pdb
